@@ -1,0 +1,149 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "Signos Vitales Biossmart API",
+    "description": "API representativa de enlace con sistemas de Anestesys",
+    "version": "v1"
+  },
+  "paths": {
+    "/api/Paciente": {
+      "get": {
+        "tags": [
+          "Paciente"
+        ],
+        "summary": "Método especifico para obtención Pacientes",
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "Paciente"
+        ],
+        "summary": "Método especifico para añadir Pacientes",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Paciente"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "put": {
+        "tags": [
+          "Paciente"
+        ],
+        "summary": "Método especifico para actualización de variables fisiologicas por Paciente",
+        "consumes": [
+          "application/json",
+          "text/json",
+          "application/*+json"
+        ],
+        "parameters": [
+          {
+            "in": "body",
+            "name": "body",
+            "description": "",
+            "schema": {
+              "$ref": "#/definitions/Paciente"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Paciente/{id}": {
+      "get": {
+        "tags": [
+          "Paciente"
+        ],
+        "summary": "Método especifico para obtención Pacientes por su ID",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      },
+      "delete": {
+        "tags": [
+          "Paciente"
+        ],
+        "summary": "Método especifico para remover un Paciente",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "id",
+            "description": "",
+            "required": true,
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "Paciente": {
+      "type": "object",
+      "properties": {
+        "idPaciente": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "nombrePaciente": {
+          "type": "string"
+        },
+        "presionArterial": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "respiracion": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "pulso": {
+          "format": "int32",
+          "type": "integer"
+        },
+        "temperatura": {
+          "format": "float",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

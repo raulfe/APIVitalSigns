@@ -1,0 +1,12 @@
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\bin\Debug\netstandard2.0\SignosVitalesAPI.Core.dll
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.csprojAssemblyReference.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.AssemblyInfo.cs
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\bin\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.deps.json
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\bin\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.dll
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\bin\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.pdb
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\bin\Debug\netstandard2.0\SignosVitalesAPI.Core.pdb
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.csproj.CopyComplete
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.dll
+C:\Users\raulf\source\repos\SignosVitalesAPI.Infrastructure\obj\Debug\netstandard2.0\SignosVitalesAPI.Infrastructure.pdb

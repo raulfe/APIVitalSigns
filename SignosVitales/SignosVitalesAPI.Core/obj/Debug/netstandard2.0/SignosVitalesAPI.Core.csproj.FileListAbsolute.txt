@@ -1,0 +1,9 @@
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\bin\Debug\netstandard2.0\SignosVitalesAPI.Core.deps.json
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\bin\Debug\netstandard2.0\SignosVitalesAPI.Core.dll
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\bin\Debug\netstandard2.0\SignosVitalesAPI.Core.pdb
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.csprojAssemblyReference.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.AssemblyInfoInputs.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.AssemblyInfo.cs
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.csproj.CoreCompileInputs.cache
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.dll
+C:\Users\raulf\source\repos\SignosVitalesAPI.Core\obj\Debug\netstandard2.0\SignosVitalesAPI.Core.pdb

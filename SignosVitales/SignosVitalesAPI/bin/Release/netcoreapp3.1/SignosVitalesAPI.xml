@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SignosVitalesAPI</name>
+    </assembly>
+    <members>
+        <member name="M:SignosVitalesAPI.Controllers.PacienteController.GetPacientes">
+            <summary>
+            Método especifico para obtención Pacientes
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:SignosVitalesAPI.Controllers.PacienteController.GetPacientes(System.Int32)">
+            <summary>
+            Método especifico para obtención Pacientes por su ID
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SignosVitalesAPI.Controllers.PacienteController.InserPaciente(SignosVitalesAPI.Core.Entities.Paciente)">
+            <summary>
+            Método especifico para añadir Pacientes
+            </summary>
+            <param name="pat"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SignosVitalesAPI.Controllers.PacienteController.UpdatePaciente(SignosVitalesAPI.Core.Entities.Paciente)">
+            <summary>
+            Método especifico para actualización de variables fisiologicas por Paciente
+            </summary>
+            <param name="pat"></param>
+            <returns></returns>
+        </member>
+        <member name="M:SignosVitalesAPI.Controllers.PacienteController.DeletePaciente(System.Int32)">
+            <summary>
+            Método especifico para remover un Paciente
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

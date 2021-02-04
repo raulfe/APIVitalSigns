@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "avC9+0ieKf/DsagePa6f+czirqzThBqUX5jfIrMnAyY3EaEagYu4ga7BIHD+DqNPPuAWvBG9tGBaQ5tVazr85w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\raulf\\source\\repos\\SignosVitalesAPI.Core\\SignosVitalesAPI.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raulf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\raulf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
